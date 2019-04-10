@@ -1,1 +1,1 @@
-Contributed to the writing and compiling of the How-to Guide.
+How-to Guides on using the Machine Learning Environment.
